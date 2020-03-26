@@ -55,6 +55,7 @@ Created a DataFrame named “pcs_df” that includes the following columns: PC1,
 <img width="836" alt="elbowcurve" src="https://user-images.githubusercontent.com/55486501/77686106-70800c80-6fc2-11ea-92d2-f084d5a4af9c.png">
 
 *The best value for K is 4.
+
 2. Run the K-means algorithm to predict the K clusters for the cryptocurrencies’ data.
 
 3. Create a new DataFrame named “clustered_df” with columns: Algorithm, ProofType, TotalCoinsMined, TotalCoinSupply, PC 1, PC 2, PC 3, CoinName, and Class.
